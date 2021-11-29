@@ -1,0 +1,5 @@
+Install the following add-ons and/or libraries in MATLAB:
+
+-Simulink
+-Fuzzy Logic Toolbox (for Sigmoid)
+-Simulink Control Design (for Bode plots, Nyquist plots, phase and gain margins)
